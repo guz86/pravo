@@ -5,7 +5,8 @@ This project for a company that deals with housing law, urban planning law, cons
 ## Authors
 - [Pavel Gordienko](https://github.com/guz86)
 
-## Deploy: [[Pavel Gordienko](https://pravoguz86.netlify.app/)]([https://github.com/guz86](https://pravoguz86.netlify.app/))
+## Deploy: 
+[https://pravoguz86.netlify.app/](https://pravoguz86.netlify.app/)
 
 ## Setup and Running
 
