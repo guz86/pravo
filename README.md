@@ -2,6 +2,18 @@
 
 This project
 
+## Authors
+- [Pavel Gordienko](https://github.com/guz86)
+
+## Setup and Running
+
+- Use `node 21.x` or higher.
+- Clone this repo: `$ git clone https://github.com/guz86/pravo.git`.
+- Go to downloaded folder: `$ cd pravo`.
+- Install dependencies: `$ npm install`.
+- Start server: `$ npm start`.
+- Now you can see web application to the address: `http://localhost:8081/`.
+
 ## Available Scripts
 
 In the project directory, you can run:
