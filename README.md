@@ -1,9 +1,11 @@
 # React App 
 
-This project
+This project for a company that deals with housing law, urban planning law, consumer protection, disputes in the construction sector
 
 ## Authors
 - [Pavel Gordienko](https://github.com/guz86)
+
+## Deploy: [[Pavel Gordienko](https://pravoguz86.netlify.app/)]([https://github.com/guz86](https://pravoguz86.netlify.app/))
 
 ## Setup and Running
 
