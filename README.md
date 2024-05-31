@@ -26,3 +26,10 @@ check eslint ./src
 
 ### `npm run lint:fix`
 fix eslint ./src
+
+### `npm run check:format`
+check /src
+
+### `npm run format`
+format /src
+
