@@ -18,5 +18,11 @@ Builds the app for production to the build folder. It correctly bundles React in
 ### `npm run build:dev` 
 in development mode
 
-### `npm run build:prod` mode=production
+### `npm run build:prod`
 in production mode
+
+### `npm run lint`
+check eslint ./src
+
+### `npm run lint:fix`
+fix eslint ./src
