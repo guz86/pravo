@@ -1,0 +1,42 @@
+.contact-form-container {
+  font-family: Arial, sans-serif;
+}
+
+.phone-icon {
+  color: #0f6d52;  
+  font-size: 1.5em;
+  margin-right: 5px;  
+}
+
+.phone-link {
+  font-size: 2em;
+  color: black;
+  text-decoration: none;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.order-block {
+  margin: 5px 10px;
+}
+
+.order-block span {
+  color: #0f6d52;  
+  font-size: 1.5em;
+  margin-right: 5px;  
+}
+
+.order-link {
+  color: #0f6d52;
+  text-decoration: none;
+  border-bottom: 1px dotted;
+}
+
+.order-link:hover {
+  color: #1db187;
+}
+
+.address-block {
+  margin: 10px;
+  color: black;
+}
