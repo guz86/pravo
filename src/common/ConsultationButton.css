@@ -12,6 +12,11 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.consultation-button:hover {
+  animation-play-state: paused;
+  color: black;
+}
+
 @keyframes pulse {
   0% {
     transform: scale(1);
