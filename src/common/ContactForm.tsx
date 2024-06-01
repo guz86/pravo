@@ -1,4 +1,3 @@
-import React from 'react';
 import './ContactForm.css';
 
 const ContactForm = () => {
@@ -15,9 +14,7 @@ const ContactForm = () => {
           Заказать бесплатный звонок
         </a>
       </div>
-      <div className="address-block">
-        Санкт-Петербург, Просвещения пр. 43
-      </div>
+      <div className="address-block">Санкт-Петербург, Просвещения пр. 43</div>
     </div>
   );
 };
