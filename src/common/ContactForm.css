@@ -32,15 +32,23 @@
 
 .order-link {
   color: #0f6d52;
+  font-size: 1.2em;
   text-decoration: none;
   border-bottom: 1px dotted;
 }
 
 .order-link:hover {
+  font-size: 1.2em;
   color: #1db187;
 }
 
 .address-block {
   margin: 10px;
   color: black;
+}
+
+@media (max-width: 500px) {
+  .phone-link {
+    font-size: 1.2em;
+  }
 }

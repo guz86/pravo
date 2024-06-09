@@ -4,7 +4,7 @@
   padding: 12px 24px;
   border: none;
   border-radius: 5px;
-  font-size: 24px;
+  font-size: 1.4em;
   text-transform: uppercase;
   cursor: pointer;
   position: relative;
@@ -29,5 +29,12 @@
   100% {
     transform: scale(1);
     box-shadow: 0 0 5px rgba(139, 236, 209, 0.8);
+  }
+}
+
+@media (max-width: 500px) {
+  .consultation-button {
+    padding: 8px 16px;
+    font-size: 1em;
   }
 }

@@ -33,3 +33,29 @@
   color: #cccccc;
   font-size: 2.6em;
 }
+
+@media (max-width: 1300px) {
+  .steps-item {
+    font-size: 1.3em;
+    gap: 20px;
+  }
+}
+
+@media (max-width: 870px) {
+  .steps-item {
+    font-size: 1.1em;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .steps-header {
+    font-size: 1.5em;
+    padding-bottom: 30px;
+  }
+
+  .steps__content {
+    padding: 20px 70px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+  }
+}
