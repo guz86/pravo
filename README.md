@@ -8,10 +8,6 @@ This project for a company that deals with housing law, urban planning law, cons
 ## Screenshot
 ![image](https://github.com/guz86/pravo/assets/8058954/9c2d4826-82a9-4944-9d8e-9b071565fe9d)
 
-![image](https://github.com/guz86/pravo/assets/8058954/f2e69c0b-4260-418d-ab31-fb20d94fb7b4)
-
-
-
 ## Deploy: 
 [https://pravoguz86.netlify.app/](https://pravoguz86.netlify.app/)
 
