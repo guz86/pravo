@@ -11,7 +11,6 @@ const ConsultationButton: React.FC<{ nameButton: string }> = ({
   };
 
   const handleClosePopup = () => {
-    console.log('handleClosePopup');
     setIsPopupOpen(false);
   };
 
