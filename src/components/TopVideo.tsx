@@ -20,7 +20,10 @@ const TopVideo: React.FC = () => {
         </div>
       </div>
       <video className="top__content-video" loop muted autoPlay>
-        <source src={`https://zhilischnoe-pravo.ru/video/${videoSrc}`} type="video/mp4" />
+        <source
+          src={`https://zhilischnoe-pravo.ru/video/${videoSrc}`}
+          type="video/mp4"
+        />
       </video>
     </div>
   );
