@@ -7,9 +7,7 @@ const Steps: React.FC = () => {
       <ul className="steps-item">
         <li>Бесплатная консультация</li>
         <li className="steps-arrow">»</li>
-
         <li>Заключение соглашения на оказание юридической помощи</li>
-
         <li className="steps-arrow">»</li>
         <li>Немедленное юридическое исполнение поручения</li>
       </ul>
