@@ -6,7 +6,11 @@ This project for a company that deals with housing law, urban planning law, cons
 - [Pavel Gordienko](https://github.com/guz86)
 
 ## Screenshot
-![image](https://github.com/guz86/pravo/assets/8058954/9c2d4826-82a9-4944-9d8e-9b071565fe9d)
+![image](https://github.com/guz86/pravo/assets/8058954/4dfe4a62-f687-4824-9395-228696c45a9d)
+![image](https://github.com/guz86/pravo/assets/8058954/0e08aaf6-4d95-48e7-a95b-df9adbd794f8)
+
+
+
 
 ## Deploy: 
 [https://pravoguz86.netlify.app/](https://pravoguz86.netlify.app/)
