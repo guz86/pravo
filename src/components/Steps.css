@@ -1,0 +1,34 @@
+.steps__content {
+  background-color: #022d21;
+  padding: 30px 150px;
+  margin-bottom: 100px;
+}
+
+.steps-header {
+  color: #ffffff;
+  font-size: 2.5em;
+  padding-bottom: 30px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.steps-item {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #cccccc;
+  font-size: 1.6em;
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+.steps-arrow {
+  color: #cccccc;
+  font-size: 2.6em;
+}
