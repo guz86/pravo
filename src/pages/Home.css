@@ -33,3 +33,10 @@
 .explore-button:hover {
   background-color: #0056b3;
 }
+
+@media (max-width: 500px) {
+  .home-container h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+}

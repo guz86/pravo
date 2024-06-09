@@ -64,3 +64,13 @@ footer a:hover {
 .privacy-policy:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 800px) {
+  .footer-contact-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+}

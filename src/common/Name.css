@@ -9,3 +9,29 @@
 .name-container div {
   margin-bottom: 5px;
 }
+
+@media (max-width: 1000px) {
+  .name-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  .navbar a {
+    margin: 10px 0;
+  }
+}
+
+@media (max-width: 500px) {
+  .name-container {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+
+    font-size: 1em;
+  }
+
+  .navbar a {
+    margin: 5px 0;
+  }
+}
