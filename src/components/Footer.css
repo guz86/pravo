@@ -56,4 +56,11 @@ footer a:hover {
   color: #ffffff;
   font-size: 0.8em;
   margin-right: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.privacy-policy:hover {
+  text-decoration: underline;
 }

@@ -1,7 +1,19 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './Footer.css';
+import Modal from '../common/Modal';
+import PrivacyPolicy from '../common/privacyPolicy';
 
 const Footer: React.FC = () => {
+  const [showModal, setShowModal] = useState(false);
+
+  const handleShowModal = () => {
+    setShowModal(true);
+  };
+
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
+
   return (
     <>
       <footer className="footer">
@@ -15,10 +27,15 @@ const Footer: React.FC = () => {
             </a>
           </div>
           <div>
-            <div className="privacy-policy">Политика конфиденциальности</div>
+            <div className="privacy-policy" onClick={handleShowModal}>
+              Политика конфиденциальности
+            </div>
           </div>
         </div>
       </footer>
+      <Modal show={showModal} onClose={handleCloseModal}>
+        <PrivacyPolicy />
+      </Modal>
     </>
   );
 };
