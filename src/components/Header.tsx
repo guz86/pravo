@@ -9,7 +9,7 @@ const Header: React.FC = () => {
   return (
     <Navbar expand="lg" className="bg-dark justify-content-end">
       <Name />
-      <ConsultationButton />
+      <ConsultationButton nameButton={'Бесплатная консультация'} />
       <ContactForm />
     </Navbar>
   );
